@@ -1,0 +1,111 @@
+{
+  "project_info": {
+    "project_number": "309477772903",
+    "firebase_url": "https://pizzacheeseserver-ashdod.firebaseio.com",
+    "project_id": "pizzacheeseserver-ashdod",
+    "storage_bucket": "pizzacheeseserver-ashdod.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:309477772903:android:8ea7623227b1dd9f",
+        "android_client_info": {
+          "package_name": "com.onl.pizzacheesemanager_ashdod"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "309477772903-a7qcbqpdedsoonf3ujq64sqem9dgf8dq.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.onl.pizzacheesemanager_ashdod",
+            "certificate_hash": "30d051037e59259e377b752b38bfc4ee6054c22f"
+          }
+        },
+        {
+          "client_id": "309477772903-m9m19fhi0l14ep50sendo7r4tv2bh20r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyANJXJHBj0VuisU4HjgXUNNnXsG0BL6hFs"
+        },
+        {
+          "current_key": "AIzaSyAorNS-PoXRhe1G7zUL8Y3M5MYuSN-GoEs"
+        },
+        {
+          "current_key": "AIzaSyCZmEr-kFdmEcRwPnEQmOsKucNfJ2jdsL8"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "309477772903-m9m19fhi0l14ep50sendo7r4tv2bh20r.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:309477772903:android:f3e7fccf05a89814",
+        "android_client_info": {
+          "package_name": "com.pizzacheeseashdod"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "309477772903-lgqgp3hl89o66p87t1l4hldl49te033l.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.pizzacheeseashdod",
+            "certificate_hash": "9c21384e3435d980b63801c37717525493172ab6"
+          }
+        },
+        {
+          "client_id": "309477772903-m9m19fhi0l14ep50sendo7r4tv2bh20r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyANJXJHBj0VuisU4HjgXUNNnXsG0BL6hFs"
+        },
+        {
+          "current_key": "AIzaSyAorNS-PoXRhe1G7zUL8Y3M5MYuSN-GoEs"
+        },
+        {
+          "current_key": "AIzaSyCZmEr-kFdmEcRwPnEQmOsKucNfJ2jdsL8"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "309477772903-m9m19fhi0l14ep50sendo7r4tv2bh20r.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
